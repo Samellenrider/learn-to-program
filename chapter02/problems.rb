@@ -1,0 +1,5 @@
+puts 'You\'re a lovely person!'
+puts 'You\'re awesome!'
+puts 'You\'re an icon!'
+puts 'You\'re a genius!'
+puts 'Don\'t ever play yourself!'
