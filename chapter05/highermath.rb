@@ -21,7 +21,7 @@ puts (rand(1))
 puts (rand(1))
 puts ' '
 puts 'There is a ' + rand(101).to_s + '% chance that the pointbreaks are firing this weekend!'
-puts 'But t be sure check them bevore you go. It could change every minute!'
+puts 'But t be sure check them before you go. It could change every minute!'
 puts ' '
 puts ' '
 puts 'The Math Object'
