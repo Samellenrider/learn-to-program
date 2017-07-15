@@ -1,5 +1,5 @@
 puts 'Write some words my friend!'
-puts 'please make sure they are capitalized!!'
+
 puts 'When you are finished press enter on an empty line.'
    puts
 
@@ -11,7 +11,7 @@ unsorted_array = []
 
 while words != ''
 
-words = gets.chomp
+words = gets.chomp.capitalize
 
 
 unsorted_array[var] = words
